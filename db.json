@@ -2,7 +2,7 @@
 	"promotionList": [
 		{
 			"promotionImage": "link_to_minio",
-			"seenByUser": false,
+			"seenByUser": true,
 			"promotionSubject": "Promo Ramadhan",
 			"codeVoucher": "1233233",
 			"createdDate": 1624935352040,
